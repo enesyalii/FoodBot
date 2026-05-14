@@ -1,0 +1,6 @@
+site_name: FoodBot
+nav:
+  - EN: en.md
+  - TR: tr.md   
+theme:
+  name: material
